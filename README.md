@@ -1,7 +1,7 @@
 ### 👋 Hello 
 
 <!--
-**oyewunmio/oyewunmio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**oyewunmio/oyewunmio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
@@ -10,6 +10,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Malware Analysis, Bug hunting and Reverse Engineering Projects...
 - 🤔 I’m looking for help with projects and internships  ...
 - 💬 Ask me about anything. I will try to help you as much as I can....
-- 📫 How to reach me: Twitter:Oyewunmio, Email:oluwaseyioyewunmi7@gmail.com...
-- ⚡ Fun fact: ...
--->
+
