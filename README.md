@@ -11,5 +11,5 @@
 - 🤔 I’m looking for help with projects and internships  ...
 - 💬 Ask me about anything. I will try to help and also learn as much as I can....
 - 
-![Oyewunmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=oyewunmio&hide=contribs,prs)
+![Oyewunmi's's GitHub stats](https://github-readme-stats.vercel.app/api?username=oyewunmio&show_icons=true&theme=radical)
 
