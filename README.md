@@ -14,6 +14,6 @@
 - 🤔: CRUD operations are boring...Event sourcing is best.
 - 
 ![Oyewunmi's's GitHub stats](https://github-readme-stats.vercel.app/api?username=oyewunmio&show_icons=true&theme=radical)
-[![Oyewunmi's Coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=oyewunmio)](https://github.com/oyewunmio/github-readme-stats)
+[![Oyewunmi's Coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=oluwseyi)](https://github.com/oyewunmio/github-readme-stats)
 
 
