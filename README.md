@@ -1,5 +1,5 @@
 <!-- ![alt text](https://github.com/oyewunmio/oyewunmio/blob/main/wallpaperflare.com_wallpaper.jpg) -->
-<img src='https://github.com/oyewunmio/oyewunmio/blob/main/tenor.gif' width='100px' height='100px'> <h2>Hello World</h2>
+<!-- <img src='https://github.com/oyewunmio/oyewunmio/blob/main/tenor.gif' width='100px' height='100px'> <h2>Hello World</h2> -->
 
 <!--
 **oyewunmio/oyewunmio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
