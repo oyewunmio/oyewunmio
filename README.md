@@ -15,7 +15,7 @@
 - 
 ![Oyewunmi's's GitHub stats](https://github-readme-stats.vercel.app/api?username=oyewunmio&show_icons=true&theme=radical)
 [![Oyewunmi's Coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=oluwseyi&layout=compact)](https://github.com/oyewunmio/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oyewunmio)](https://github.com/oyewunmio/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oyewunmio)](https://github.com/oyewunmio/github-readme-stats) -->
 
 
 
