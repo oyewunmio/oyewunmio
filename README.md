@@ -12,11 +12,13 @@
 - 🤔 I’m looking for help with projects and internships  ...
 - 💬 Ask me about anything. I will try to help and also learn as much as I can....
 - 🤔: CRUD operations are boring...Event sourcing is best.
-- 
+
+General Stats
 ![Oyewunmi's's GitHub stats](https://github-readme-stats.vercel.app/api?username=oyewunmio&show_icons=true&theme=radical)
-</hr>
-[![Oyewunmi's Coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=oluwseyi&layout=compact)](https://github.com/oyewunmio/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oyewunmio)](https://github.com/oyewunmio/github-readme-stats)
+
+Weekly Stats
+[![Oyewunmi's Coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=oluwseyi&layout=compact)](https://github.com/oyewunmio/github-readme-stats)
 
 
 
