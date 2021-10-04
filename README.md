@@ -8,7 +8,7 @@ My name is Oyewunmi Oluwaseyi and I'm a software developer. I'm from Nigeria, li
 - 🌱  <b>Getting better at:</b> Python, Javascript, Datastructure & Algorithms, Linux adminstration, Scripting, Automation
 - 🤔 <b>Exploring:</b> Web exploitation
 - ⚗️ <b>Experimenting on:</b> Robotic Process Automation, Google App script
-- 💬 <b>Ask me about:</b> Python, Javascript, C++
+- 💬 <b>Ask me about:</b> Python, Javascript, C
 - 📫 <b>Reach me out:</b> Shoot a mail at <a href="mailto:oluwaseyioyewunmi99@gmail.com" target="_blank">oluwaseyioyewunmi99@gmail.com</a>
 - 🤔: CRUD operations are boring...Event sourcing is best.
 
