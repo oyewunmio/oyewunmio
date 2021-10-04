@@ -1,21 +1,76 @@
-<!-- ![alt text](https://github.com/oyewunmio/oyewunmio/blob/main/wallpaperflare.com_wallpaper.jpg) -->
-<!-- <img src='https://github.com/oyewunmio/oyewunmio/blob/main/tenor.gif' width='100px' height='100px'> <h2>Hello World</h2> -->
+<!-- (https://github.com/oyewunmio/oyewunmio/blob/main/wallpaperflare.com_wallpaper.jpg) -->
 
-<!--
-**oyewunmio/oyewunmio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+My name is Oyewunmi Oluwaseyi and I'm a software developer. I'm from Nigeria, living in Lagos and currently working as a Full-time Software Engineer at Greatsome inns. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
+### Things you should know
 
-- 🔭 I’m currently working on my Reverse Engineering, malware analysis, linux adminstration skill and machine learning engineering skills...
-- 🔭 Current honed skill: Backend Python Developer, Machine learning model engineer.
-- 🌱 I’m currently interested in CyberSecurity and Machine Learning ...
-- 👯 I’m looking to collaborate on Malware Analysis, Bug hunting, Reverse Engineering and machine learning Projects...
-- 🤔 I’m looking for help with projects and internships  ...
-- 💬 Ask me about anything. I will try to help and also learn as much as I can....
+- 🔭 <b>Currently working on:</b> React.js, Django, Django REST, Linux Adminstration, Malware analysis, 
+- 🌱  <b>Getting better at:</b> Python, Javascript, Datastructure & Algorithms, Linux adminstration, Scripting, Automation
+- 🤔 <b>Exploring:</b> Web exploitation
+- ⚗️ <b>Experimenting on:</b> Robotic Process Automation, Google App script
+- 💬 <b>Ask me about:</b> Python, Javascript, C++
+- 📫 <b>Reach me out:</b> Shoot a mail at <a href="mailto:oluwaseyioyewunmi99@gmail.com" target="_blank">oluwaseyioyewunmi99@gmail.com</a>
 - 🤔: CRUD operations are boring...Event sourcing is best.
 
-![Oyewunmi's's GitHub stats](https://github-readme-stats.vercel.app/api?username=oyewunmio&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oyewunmio)](https://github.com/oyewunmio/github-readme-stats)
+### My Stacks
+
+```json
+{
+  "languages": ["Python", "Javascript", "C", "Bash"],
+  "frameworks/libraries": {
+    "backend": ["Django", "Django Rest Framework"],
+    "frontend": ["React.js", "Boostrap", "Material UI", "Jquery", "HTML5", "CSS3"],
+    "others": ["TensorFlow",]
+  },
+  "database": ["Mysql", "PostgreSQL"],
+  "misc": ["Docker", "Redis", "Celery", "RabbitMQ", "Unit Testing", "CI/CD"],
+  "tools": ["Visual Studio Code", "Pycharm", "Vim"]
+}
+```
+## 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Css-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Mysql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+
+<a href="https://github.com/oyewunmio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyewunmio&hide=dockerfile,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/oyewunmio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oyewunmio&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Oyewunmi's GitHub Stats" />
+</a>
 
 [![Oyewunmi's Coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=oluwseyi&layout=compact)](https://github.com/oyewunmio/github-readme-stats)
+
+<!-- links to social media icons -->
+
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png "twitter icon with padding"
+[2.1]: http://i.imgur.com/0o48UoR.png "github icon with padding"
+
+<!-- icons without padding -->
+
+[1.2]: https://i.imgur.com/wWzX9uB.png "twitter icon without padding"
+[2.2]: https://i.imgur.com/9I6NRUm.png "github icon without padding"
+[3.2]: https://i.imgur.com/dgXzJ9j.png "LinkedIn icon without padding"
+
+<!-- links to your social media accounts -->
+
+[1]: https://twitter.com/o_oyewunmi
+[2]: https://github.com/oyewunmio
+[3]: https://www.linkedin.com/in/oyewunmio/
 
 
