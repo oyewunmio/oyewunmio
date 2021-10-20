@@ -18,11 +18,12 @@ My name is Oyewunmi Oluwaseyi and I'm a software developer. I'm from Nigeria, li
 {
   "languages": ["Python", "Javascript", "C", "Bash"],
   "frameworks/libraries": {
-    "backend": ["Django", "Django Rest Framework"],
+    "backend": ["Django", "Django Rest Framework", "NodeJs"],
     "frontend": ["React.js", "Boostrap", "Material UI", "Jquery", "HTML5", "CSS3"],
     "others": ["TensorFlow",]
+    "API": ["FastApi", "Django Rest"]
   },
-  "database": ["Mysql", "PostgreSQL"],
+  "database": ["Mysql", "PostgreSQL", "MongoDB"],
   "misc": ["Docker", "Redis", "Celery", "RabbitMQ", "Unit Testing", "CI/CD"],
   "tools": ["Visual Studio Code", "Pycharm", "Vim"]
 }
