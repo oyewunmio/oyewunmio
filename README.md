@@ -1,6 +1,6 @@
 <!-- (https://github.com/oyewunmio/oyewunmio/blob/main/wallpaperflare.com_wallpaper.jpg) -->
 
-My name is Oyewunmi Oluwaseyi and I'm a software developer. I'm from Nigeria, living in Lagos and currently working as a Full-time Software Engineer at Greatsome inns. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+My name is Oyewunmi Oluwaseyi and I'm a software developer. I'm from Nigeria, living in Lagos and currently working as a Freelance Software Engineer You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 ### Things you should know
 
