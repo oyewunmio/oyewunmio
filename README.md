@@ -5,7 +5,7 @@ My name is Oyewunmi Oluwaseyi and I'm a software developer. I'm from Nigeria, li
 ### Things you should know
 
 - 🔭 <b>Currently working on:</b> React.js, Django, Django REST, Linux Adminstration, Malware analysis, 
-- 🌱  <b>Getting better at:</b> Python, Javascript, Datastructure & Algorithms, Linux adminstration, Scripting, Automation
+- 🌱  <b>Getting better at:</b> Python, Javascript, Datastructure & Algorithms, Linux adminstration, Scripting, Automation, Go, Solidity
 - 🤔 <b>Exploring:</b> Web exploitation
 - ⚗️ <b>Experimenting on:</b> Robotic Process Automation, Google App script
 - 💬 <b>Ask me about:</b> Python, Javascript, C
@@ -19,7 +19,7 @@ My name is Oyewunmi Oluwaseyi and I'm a software developer. I'm from Nigeria, li
   "languages": ["Python", "Javascript", "C", "Bash"],
   "frameworks/libraries": {
     "backend": ["Django", "Django Rest Framework", "NodeJs"],
-    "frontend": ["React.js", "Boostrap", "Material UI", "Jquery", "HTML5", "CSS3"],
+    "frontend": ["React.js", "Boostrap", "Tailwind Css", "Jquery", "HTML5", "CSS3"],
     "others": ["TensorFlow",]
     "API": ["FastApi", "Django Rest"]
   },
