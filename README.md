@@ -25,7 +25,7 @@ My name is Oyewunmi Oluwaseyi and I'm a software developer. I'm from Nigeria, li
   },
   "database": ["Mysql", "PostgreSQL", "MongoDB"],
   "misc": ["Docker", "Redis", "Celery", "RabbitMQ", "Unit Testing", "CI/CD"],
-  "tools": ["Visual Studio Code", "Pycharm", "Vim"]
+  "tools": ["Visual Studio Code", "Pycharm", "Vim", "WebStorm", "GoLand"]
 }
 ```
 ## 🔧 Technologies & Tools
