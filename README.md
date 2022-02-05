@@ -11,7 +11,7 @@ My name is Oyewunmi Oluwaseyi and I'm a software developer. I'm from Nigeria, li
 - 💬 <b>Ask me about:</b> Python, Javascript, C
 - 📫 <b>Reach me out:</b> Shoot a mail at <a href="mailto:oluwaseyioyewunmi99@gmail.com" target="_blank">oluwaseyioyewunmi99@gmail.com</a>
 - 🤔: CRUD operations are boring...Event sourcing is best.
-- Open Source Github account:  https://github.com/thoth
+- Open Source Github account:  https://github.com/thoth2357
 
 ### My Stacks
 
